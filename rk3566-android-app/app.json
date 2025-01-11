@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "01e98a77-d1ce-4e83-975f-502e0187809e"
+      }
+    },
+    "android": {
+      "package": "com.gracezhang0424.rk3566androidapp"
+    }
+  }
+}
